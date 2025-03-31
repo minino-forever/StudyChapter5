@@ -1,0 +1,14 @@
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\bin\Debug\net8.0\FunWithArrays.exe
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\bin\Debug\net8.0\FunWithArrays.deps.json
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\bin\Debug\net8.0\FunWithArrays.runtimeconfig.json
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\bin\Debug\net8.0\FunWithArrays.dll
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\bin\Debug\net8.0\FunWithArrays.pdb
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.AssemblyInfoInputs.cache
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.AssemblyInfo.cs
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.dll
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\refint\FunWithArrays.dll
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.pdb
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\FunWithArrays.genruntimeconfig.cache
+C:\Users\Alex\source\repos\StudyChapter5\FunWithArrays\obj\Debug\net8.0\ref\FunWithArrays.dll
