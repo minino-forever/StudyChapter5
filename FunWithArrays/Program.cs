@@ -200,6 +200,8 @@ namespace FunWithArrays
                 Console.WriteLine(gothicBannds[i] + " ");
             }
 
+            Console.WriteLine("\n");
+
             Console.WriteLine("-> Cleared out all but one...:");
 
             Array.Clear(gothicBannds, 1, 2);
