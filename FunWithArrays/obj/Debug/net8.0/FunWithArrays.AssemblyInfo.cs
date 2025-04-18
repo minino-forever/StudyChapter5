@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FunWithArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7aa2f3126111d18046e9b3b01669eae44ff0a186")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a50db13287fff767e5db2049f96dc8c5778c7cde")]
 [assembly: System.Reflection.AssemblyProductAttribute("FunWithArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FunWithArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
