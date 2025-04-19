@@ -10,7 +10,7 @@
 
             int? i = dr.GetIntFromDatabase();
 
-            if (i != null)
+            if (i.HasValue)
             {
                 Console.WriteLine($"Value of 'i' is: {i.Value}");
             }
@@ -21,7 +21,7 @@
 
             bool? b = dr.GetBoolFromDatebase();
 
-            if (b != null)
+            if (b.HasValue)
             {
                 Console.WriteLine($"Vlaue of 'b' is: {b.Value}");
             }
